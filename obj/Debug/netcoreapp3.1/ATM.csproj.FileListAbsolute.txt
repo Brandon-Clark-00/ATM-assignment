@@ -1,0 +1,12 @@
+C:\Users\Brandon\source\repos\ATM\bin\Debug\netcoreapp3.1\ATM.exe
+C:\Users\Brandon\source\repos\ATM\bin\Debug\netcoreapp3.1\ATM.deps.json
+C:\Users\Brandon\source\repos\ATM\bin\Debug\netcoreapp3.1\ATM.runtimeconfig.json
+C:\Users\Brandon\source\repos\ATM\bin\Debug\netcoreapp3.1\ATM.runtimeconfig.dev.json
+C:\Users\Brandon\source\repos\ATM\bin\Debug\netcoreapp3.1\ATM.dll
+C:\Users\Brandon\source\repos\ATM\bin\Debug\netcoreapp3.1\ATM.pdb
+C:\Users\Brandon\source\repos\ATM\obj\Debug\netcoreapp3.1\ATM.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\ATM\obj\Debug\netcoreapp3.1\ATM.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\ATM\obj\Debug\netcoreapp3.1\ATM.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\ATM\obj\Debug\netcoreapp3.1\ATM.dll
+C:\Users\Brandon\source\repos\ATM\obj\Debug\netcoreapp3.1\ATM.pdb
+C:\Users\Brandon\source\repos\ATM\obj\Debug\netcoreapp3.1\ATM.genruntimeconfig.cache
